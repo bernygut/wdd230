@@ -1,11 +1,15 @@
+
+
 .grid-container {
     display: grid;
     grid-template-columns: auto auto;
     background-color: #016296;
+    text-decoration: #ffffff;
+    font-family: fantasy;
     padding: 10px;
   }
   .grid-item {
-    padding: 20px;
+    padding: 10px;
     text-align: center;
   }
 
