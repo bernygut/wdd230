@@ -1,10 +1,16 @@
 .grid-container {
     display: grid;
     grid-template-columns: auto auto;
-    background-color: #2196F3;
+    background-color: #016296;
     padding: 10px;
   }
   .grid-item {
     padding: 20px;
     text-align: center;
   }
+
+  .bprofile {
+    max-width: 117px;
+    max-height: 150px;
+  }
+  
