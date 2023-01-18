@@ -4,7 +4,8 @@
     display: grid;
     grid-template-columns: auto auto;
     background-color: #016296;
-    font-family: fantasy;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     padding: 10px;
   }
   .grid-item {
@@ -15,8 +16,4 @@
   .berny_profile {
     width: 110px;
     height: 135px;
-  }
-  
-  h1 {
-    color: white;
   }
