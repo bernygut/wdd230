@@ -1,14 +1,16 @@
 
 header, main, footer {
-  max-width: 75%;
+  max-width: 70%;
 }
 .grid-container {
     display: grid;
     grid-template-columns: auto auto;
     background-color: #016296;
     color: white;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: verdana, arial;
     padding: 10px;
+    max-width: 70%;
+    align-items: center;
   }
   .grid-item {
     padding: 5px;
