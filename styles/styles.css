@@ -24,6 +24,7 @@ main {
     align-items: center;
     margin: auto;
     align-self: center;
+    justify-content: center;
   }
   .grid-item {
     padding: 5px;
