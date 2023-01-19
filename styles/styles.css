@@ -1,5 +1,7 @@
 
-
+header, main, footer {
+  max-width: 75%;
+}
 .grid-container {
     display: grid;
     grid-template-columns: auto auto;
@@ -17,3 +19,4 @@
     width: 110px;
     height: 135px;
   }
+
