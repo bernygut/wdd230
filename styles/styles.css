@@ -1,16 +1,23 @@
 
 header, main, footer {
   max-width: 70%;
+  align-self: center;
 }
+
+main {
+  font-family: 'Hind';
+}
+
 .grid-container {
     display: grid;
     grid-template-columns: auto auto;
     background-color: #016296;
     color: white;
-    font-family: verdana, arial;
+    font-family: 'Autowide';
     padding: 10px;
     max-width: 70%;
     align-items: center;
+    align-self: center;
   }
   .grid-item {
     padding: 5px;
