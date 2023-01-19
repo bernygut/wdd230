@@ -17,7 +17,7 @@ main {
 .grid-container {
     display: grid;
     grid-template-columns: auto auto;
-    background-color: #016296;
+    background-color: #27a0be;
     color: white;
     font-family: 'Autowide';
     padding: 10px;
