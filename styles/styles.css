@@ -1,11 +1,15 @@
 
-header, main, footer {
+header, footer {
+  box-shadow: 5px 2px 30px 2px rgba(0, 0, 0, 0.75);
   max-width: 70%;
   margin: auto;
+  align-items: center;
 }
 
 main {
   font-family: 'Hind';
+  max-width: 70%;
+  margin: auto;
 }
 
 .grid-container {
@@ -27,5 +31,6 @@ main {
   .berny_profile {
     width: 110px;
     height: 135px;
+    box-shadow: 5px 2px 30px 2px rgba(0, 0, 0, 0.75);
   }
 
