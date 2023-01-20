@@ -25,9 +25,10 @@ main {
     margin: auto;
     align-self: center;
     justify-content: center;
+    column-gap: 20px;
   }
   .grid-item {
-    padding: 15px;
+    padding: 5px;
     text-align: center;
   }
 
