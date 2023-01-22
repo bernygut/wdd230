@@ -6,7 +6,7 @@ h1{
 }
 
 header, footer {
-    box-shadow: 3px 1px 15px 1px rgba(0, 0, 0, 0.75);
+    box-shadow: 2px 1px 5px 1px rgba(0, 0, 0, 0.75);
     max-width: 70%;
     margin: auto;
     align-self: center;
