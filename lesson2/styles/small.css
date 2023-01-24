@@ -10,7 +10,6 @@ header, footer {
     font-family: 'Unna';
     max-width: 70%;
     margin: auto;
-    align-self: center;
   }
   
   .grid-container-header-footer {
@@ -22,7 +21,6 @@ header, footer {
       padding: 5px;
       align-items: center;
       margin: auto;
-      align-self: center;
       justify-content: center;
       column-gap: 5px;
     }
@@ -48,7 +46,6 @@ header, footer {
         border-color:#83bde4;
         border-width: 1;
         margin: auto;
-        align-self: center;
       }
 
     .row1 {
