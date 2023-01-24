@@ -61,17 +61,17 @@ header, footer {
       grid-row: 2;
     }
   
-    .sample_1_pic {
+    .sample_pic_1 {
       width: 70px;
       height: 92px;
     }
 
-    .sample_2_pic {
+    .sample_pic_2 {
         width: 70px;
         height: 92px;
       }
   
-    .sample_3_pic {
+    .sample_pic_3 {
         width: 70px;
         height: 92px;
     }
