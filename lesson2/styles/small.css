@@ -44,7 +44,9 @@ header, footer {
       }
       .grid-item-main {
         padding: 5px;
-        border-color:dimgrey;
+        border-radius: 25px;
+        border-color:#83bde4;
+        border-width: 1;
         margin: auto;
         align-self: center;
       }
