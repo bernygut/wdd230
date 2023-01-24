@@ -50,7 +50,7 @@ header, footer {
       }
       .grid-item-main {
         padding: 5px;
-        text-align: center;
+        border-color:dimgrey;
       }
 
     .row1 {
