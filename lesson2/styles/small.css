@@ -42,8 +42,7 @@ header, footer {
       }
       .grid-item-main {
         padding: 5px;
-        border-radius: 25px;
-        border-color:#83bde4;
+        border: 1px solid #83bde4;
         border-width: 1;
         margin: auto;
       }
