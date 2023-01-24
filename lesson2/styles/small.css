@@ -45,6 +45,8 @@ header, footer {
       .grid-item-main {
         padding: 5px;
         border-color:dimgrey;
+        margin: auto;
+        align-self: center;
       }
 
     .row1 {
