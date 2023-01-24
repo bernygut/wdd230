@@ -58,7 +58,9 @@ header, footer {
     .row2 {
       grid-row: 2;
     }
-  
+    .row3 {
+      grid-row: 2;
+    }
     .sample_pic_1 {
       width: 395px;
       height: 850px;
