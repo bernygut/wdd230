@@ -1,6 +1,6 @@
 // Select the HTML element to manipulate
 const date1 = document.querySelector("#date1");
-let oLastModif = new document.lastModified;
+let oLastModif = document.lastModified;
 date1.innerHTML = `Last Updated: ${oLastModif}`;
 
 const year = document.querySelector("#year");
