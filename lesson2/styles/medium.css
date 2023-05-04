@@ -1,6 +1,12 @@
 @media only screen and (min-width: 32.5em){
     
-    .grid-container-main {
+  .grid-container-main {
     grid-template-columns: auto auto;
+    grid-gap: 5px 10px;
+  }
+
+  .row2 {
+    grid-row: 2;
+    justify-content: center;
   }
 }

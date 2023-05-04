@@ -38,7 +38,8 @@ header, footer {
         margin: auto;
         align-self: center;
         justify-content: center;
-        column-gap: 5px;
+        align-content: flex-start;
+        grid-gap: 5px 10px;
       }
       .grid-item-main {
         padding: 5px;
