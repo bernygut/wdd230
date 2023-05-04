@@ -27,6 +27,7 @@ header, footer {
     .grid-item-header-footer {
       padding: 5px;
       text-align: center;
+      align-items: center;
     }
 
     .grid-container-main {
