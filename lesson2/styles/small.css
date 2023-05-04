@@ -57,15 +57,15 @@ header, footer {
     }
     .sample_pic_1 {
       width: 395px;
-      height: 850px;
+      height: auto;
     }
 
     .sample_pic_2 {
       width: 395px;
-      height: 850px;
+      height: auto;
       }
   
     .sample_pic_3 {
         width: 395px;
-        height: 844px;
+        height: auto;
     }
