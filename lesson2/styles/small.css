@@ -35,13 +35,13 @@ header, footer {
         font-family: 'Unna';
         padding: 5px;
         align-content: flex-start;
+        align-self: center;
         grid-gap: 5px 10px;
       }
       .grid-item-main {
         padding: 5px;
         border: 1px solid #83bde4;
         border-width: 1;
-        align-self: center;
         align-content: flex-start;
       }
 
