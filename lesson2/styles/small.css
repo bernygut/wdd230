@@ -34,6 +34,7 @@ header, footer {
         grid-template-columns: auto;
         font-family: 'Unna';
         padding: 5px;
+        justify-content: center;
         align-content: flex-start;
         align-self: center;
         grid-gap: 5px 10px;
