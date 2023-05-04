@@ -3,6 +3,8 @@
   .grid-container-main {
     grid-template-columns: auto auto;
     grid-gap: 5px 10px;
+    align-content: flex-start;
+    grid-gap: 5px 10px;
   }
 
   .row2 {
