@@ -1,73 +1,55 @@
 
+h1{ 
+
+  font-size: 14px;
+
+}
+
 header, footer {
-    max-width: 70%;
+  box-shadow: 2px 1px 5px 1px rgba(0, 0, 0, 0.75);
+  max-width: 70%;
+  margin: auto;
+  align-self: center;
+  align-items: center;
+}
+
+main {
+  font-family: 'Hind', sans-serif;
+  max-width: 70%;
+  margin: auto;
+  align-self: center;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: #27a0be;
+    color: white;
+    font-family: 'Autowide', cursive;
+    padding: 5px;
+    align-items: center;
     margin: auto;
     align-self: center;
-    align-items: center;
+    justify-content: center;
+    column-gap: 5px;
   }
-  
-  main {
-    font-family: 'Unna';
-    max-width: 70%;
-    margin: auto;
+  .grid-item {
+    padding: 5px;
+    text-align: center;
   }
-  
-  .grid-container-header-footer {
-      display: grid;
-      grid-template-columns: auto auto;
-      background-color: #83bde4;
-      color: white;
-      font-family: 'Arvo';
-      padding: 5px;
-      align-items: center;
-      margin: auto;
-      justify-content: center;
-      column-gap: 5px;
-    }
-    .grid-item-header-footer {
-      padding: 5px;
-      text-align: center;
+
+  .row1 {
+    grid-row: 1;
+  }
+  .row2 {
+    grid-row: 2;
+    color: #BE2663;
     }
 
-    .grid-container-main {
-        display: grid;
-        grid-template-columns: auto;
-        font-family: 'Unna';
-        padding: 5px;
-        align-items: center;
-        margin: auto;
-        align-self: center;
-        justify-content: center;
-        column-gap: 5px;
-      }
-      .grid-item-main {
-        padding: 5px;
-        border: 1px solid #83bde4;
-        border-width: 1;
-        margin: auto;
-      }
+  .berny_profile {
+    width: 135px;
+    height: auto;
+    box-shadow: 3px 1px 15px 1px rgba(0, 0, 0, 0.75);
+  }
 
-    .row1 {
-      grid-row: 1;
-    }
 
-    .row2 {
-      grid-row: 2;
-    }
-    .row3 {
-      grid-row: 3;
-    }
-    .sample_pic_1 {
-      width: 395px;
-      height: 850px;
-    }
-
-    .sample_pic_2 {
-      width: 395px;
-      height: 850px;
-      }
-  
-    .sample_pic_3 {
-        width: 395px;
-        height: 844px;
-    }
