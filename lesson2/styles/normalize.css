@@ -318,7 +318,7 @@
    */
   
   details {
-    display: grid;
+    display: block;
   }
   
   /*
@@ -337,7 +337,7 @@
    */
   
   template {
-    display: grid;
+    display: block;
   }
   
   /**

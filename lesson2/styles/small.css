@@ -27,6 +27,7 @@ header, footer {
       column-gap: 5px;
     }
     .grid-item-header-footer {
+      display: grid;
       padding: 5px;
       text-align: center;
       align-items: center;
