@@ -1,9 +1,10 @@
 
 header, footer {
-    max-width: 70%;
-    margin: auto;
-    align-self: center;
-    align-items: center;
+  display: grid;
+  max-width: 70%;
+  margin: auto;
+  align-self: center;
+  align-items: center;
   }
   
   main {
