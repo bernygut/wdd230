@@ -337,7 +337,7 @@
    */
   
   template {
-    display: none;
+    display: grid;
   }
   
   /**
@@ -345,5 +345,5 @@
    */
   
   [hidden] {
-    display: none;
+    display: grid;
   }
