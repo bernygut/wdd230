@@ -1,6 +1,5 @@
 
 header, footer {
-  display: grid;
   max-width: 70%;
   margin: auto;
   align-self: center;
