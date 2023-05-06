@@ -7,6 +7,7 @@ header, footer {
   }
   
   main {
+    display: grid; 
     font-family: 'Unna';
     max-width: 70%;
     margin: auto;
