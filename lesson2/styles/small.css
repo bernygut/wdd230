@@ -15,7 +15,7 @@ header, footer {
   
   .grid-container-header-footer {
       display: grid;
-      grid-template-columns: auto auto;
+      grid-template-columns: auto;
       background-color: #83bde4;
       color: white;
       font-family: 'Arvo';

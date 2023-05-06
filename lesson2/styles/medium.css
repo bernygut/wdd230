@@ -7,6 +7,10 @@
     align-self: center;
   }
 
+  .grid-container-header-footer {
+    grid-template-columns: auto auto;
+  }
+
   .row2 {
     grid-row: 2;
     justify-content: center;
