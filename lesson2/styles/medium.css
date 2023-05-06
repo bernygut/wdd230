@@ -11,4 +11,9 @@
     grid-row: 2;
     justify-content: center;
   }
+
+  main div:nth-child(3) {
+    grid-column: span 2;
+
+  }
 }
