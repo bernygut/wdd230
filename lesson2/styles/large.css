@@ -14,7 +14,7 @@
 
 main div:nth-child(3) {
   grid-column: span 1;
-
+  width: calc(100% / 3);
 }
 
 .sample_pic_3 {
