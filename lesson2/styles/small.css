@@ -60,16 +60,19 @@ header, footer {
       grid-row: 3;
     }
     .sample_pic_1 {
-      width: 345px;
+      width: 100%;
       height: auto;
+      object-fit: cover;
     }
 
     .sample_pic_2 {
-      width: 345px;
+      width: 100%;
       height: auto;
+      object-fit: cover;
       }
   
     .sample_pic_3 {
-        width: 345px;
-        height: auto;
+      width: 100%;
+      height: auto;
+      object-fit: cover;
     }
