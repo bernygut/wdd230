@@ -12,15 +12,15 @@
   grid-template-columns: auto auto auto;
 }
 main div:nth-child(1) {
-  width: 33.33%;
+  width: 100%;
 }
 
 main div:nth-child(2) {
-  width: 33.33%;
+  width: 100%;
 }
 
 main div:nth-child(3) {
-  width: 33.33%;
+  width: 100%;
 }
 
 .sample_pic_3 {
