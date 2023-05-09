@@ -4,6 +4,7 @@ header, footer {
   margin: auto;
   align-self: center;
   align-items: center;
+  justify-content: center;
   }
   
   main {
@@ -11,6 +12,7 @@ header, footer {
     font-family: 'Unna';
     max-width: 70%;
     margin: auto;
+    justify-content: center;
   }
   
   .grid-container-header-footer {
@@ -63,16 +65,22 @@ header, footer {
       width: 100%;
       height: auto;
       object-fit: cover;
+      column-span: all;
+      border: 5px solid transparent;
     }
 
     .sample_pic_2 {
       width: 100%;
       height: auto;
       object-fit: cover;
+      column-span: all;
+      border: 5px solid transparent;
       }
   
     .sample_pic_3 {
       width: 100%;
       height: auto;
       object-fit: cover;
+      column-span: all;
+      border: 5px solid transparent;
     }
