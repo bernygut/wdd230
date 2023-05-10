@@ -18,7 +18,7 @@ header, footer {
   .grid-container-header-footer {
       display: grid;
       grid-template-columns: auto;
-      background-color: #83bde4;
+      background-color: #226999;
       color: white;
       font-family: 'Arvo';
       padding: 5px;
@@ -46,8 +46,8 @@ header, footer {
       }
       .grid-item-main {
         padding: 5px;
-        border: 1px solid #83bde4;
-        border-width: 1;
+        border: 1px solid #226999;
+        border-width: 1px;
         align-content: flex-start;
       }
 
