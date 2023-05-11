@@ -4,11 +4,12 @@ header, footer {
   align-self: center;
   align-items: center;
   justify-content: center;
+  font-family: 'Lato';
   }
   
   main {
     display: grid; 
-    font-family: 'Unna';
+    font-family: 'Montserrat';
     margin: auto;
     justify-content: center;
   }
